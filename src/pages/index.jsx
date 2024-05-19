@@ -1,4 +1,2 @@
-import { Home } from "./Home";
-import { About } from "./About";
-
-export { Home, About };
+export { Home } from "./Home";
+export { About } from "./About";
